@@ -131,6 +131,11 @@ Services and providers are separated from UI.
 
 FastAPI integration can replace mock services with minimal UI changes.
 
+## Screenshots
+
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+
 ---
 
 ## Known Limitations
@@ -156,3 +161,11 @@ FastAPI integration can replace mock services with minimal UI changes.
 AI assistance was used for architecture guidance, documentation drafting, and code review.
 
 All generated code was manually reviewed and modified.
+
+## 📦 APK Release
+
+You can download the latest APK from GitHub Releases:
+
+👉 https://github.com/AbhayRaaj1/airman-toga-flutter-assessment/releases/tag/v1.0
+
+This release contains the final working build of the TOGA Flutter Assessment app.
